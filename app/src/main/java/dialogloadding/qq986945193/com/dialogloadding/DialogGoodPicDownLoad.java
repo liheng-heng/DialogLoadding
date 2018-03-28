@@ -9,14 +9,9 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.LinearLayout;
 import android.widget.TextView;
-
 /**
- * @author ：程序员小冰
- * @新浪微博 ：http://weibo.com/mcxiaobing
- * @GitHub: https://github.com/QQ986945193
- * @CSDN博客: http://blog.csdn.net/qq_21376985
+ * @author ：liheng
  */
-
 public class DialogGoodPicDownLoad {
 
     public static Dialog createLoadingDialog(Context context, String msg) {
