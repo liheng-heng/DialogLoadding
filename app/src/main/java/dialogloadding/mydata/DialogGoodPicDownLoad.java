@@ -1,4 +1,4 @@
-package dialogloadding.qq986945193.com.dialogloadding;
+package dialogloadding.mydata;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -9,6 +9,9 @@ import android.view.Window;
 import android.view.WindowManager;
 import android.widget.LinearLayout;
 import android.widget.TextView;
+
+import dialogloadding.qq986945193.com.dialogloadding.R;
+
 /**
  * @author ：liheng
  */

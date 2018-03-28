@@ -1,4 +1,4 @@
-package dialogloadding.qq986945193.com.dialogloadding;
+package dialogloadding.mydata;
 
 import android.app.Dialog;
 import android.content.Context;
@@ -12,6 +12,8 @@ import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.RelativeLayout;
 import android.widget.TextView;
+
+import dialogloadding.qq986945193.com.dialogloadding.R;
 
 /**
  * @author ：liheng
